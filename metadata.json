@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Saturn Nebula - Gesture Interactive",
+  "description": "A real-time 3D particle system forming Saturn, controlled by hand gestures via the Gemini API. Open hand to disperse particles and reveal wisdom; close hand to reform the planet.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
